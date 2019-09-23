@@ -1,0 +1,9 @@
+C:\Users\Benson\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\Extensions\ExtenedOperations.dll
+C:\Users\Benson\source\repos\SimpleCalculator\SimpleCalculator\bin\Debug\Extensions\ExtenedOperations.pdb
+C:\Users\Benson\source\repos\SimpleCalculator\ExtenedOperations\obj\Debug\ExtenedOperations.csproj.CoreCompileInputs.cache
+C:\Users\Benson\source\repos\SimpleCalculator\ExtenedOperations\obj\Debug\ExtenedOperations.dll
+C:\Users\Benson\source\repos\SimpleCalculator\ExtenedOperations\obj\Debug\ExtenedOperations.pdb
+C:\Users\Benson\source\repos\SimpleCalculator\ExtenedOperations\obj\Debug\ExtenedOperations.csprojAssemblyReference.cache
+C:\Users\Benson\source\repos\SimpleCalculator\ExtenedOperations\obj\Debug\ExtenedOperations.csproj.CopyComplete
+D:\extentions\ExtenedOperations.dll
+D:\extentions\ExtenedOperations.pdb

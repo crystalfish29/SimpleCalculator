@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.Composition;
 using System.ComponentModel.Composition.Hosting;
+using Contracts;
 
 namespace SimpleCalculator
 {
@@ -20,7 +21,8 @@ namespace SimpleCalculator
         private Program()
         { 
             var catalog = new AggregateCatalog();
-            catalog.Catalogs.Add(new AssemblyCatalog(typeof(Program).Assembly));
+            //catalog.Catalogs.Add(new AssemblyCatalog(typeof(Program).Assembly));
+            catalog.Catalogs.Add(new DirectoryCatalog(@"D:\extentions\"));
             _container = new CompositionContainer(catalog);
 
             //tells the composition container to compose a specific set of parts,
