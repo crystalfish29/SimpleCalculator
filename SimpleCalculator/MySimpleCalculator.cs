@@ -38,7 +38,7 @@ namespace SimpleCalculator
                 if (i.Metadata.Symbol.Equals(operation)) // check theis metadata
                     return i.Value.Operate(left, right).ToString();
             }
-            return "operation not found";
+            return "operation not found  ";
         }
 
 
